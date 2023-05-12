@@ -7,8 +7,12 @@ print(len(fruits))
 # add element to list
 fruits.append('mango')
 
+print(fruits)
+
 # add element to list at specific index
 fruits.insert(1, 'watermelon')
+
+print(fruits)
 
 # remove element from list
 fruits.remove('banana')
